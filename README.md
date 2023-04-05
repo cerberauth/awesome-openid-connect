@@ -39,7 +39,31 @@ Where to discover learning resources about OpenID Connect.
 
 ### Published
 
+- [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html)
+- [The OAuth 2.0 Authorization Framework](https://www.rfc-editor.org/rfc/rfc6749)
+- [JSON Web Token (JWT)](https://www.rfc-editor.org/rfc/rfc7519)
+- [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://www.rfc-editor.org/rfc/rfc6750)
+- [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html)
+- [OAuth 2.0 Authorization Server Metadata](https://www.rfc-editor.org/rfc/rfc8414)
+- [OAuth 2.0 Token Revocation](https://www.rfc-editor.org/rfc/rfc7009)
+- [OpenID Connect Dynamic Client Registration](https://openid.net/specs/openid-connect-registration-1_0.html)
+- [OAuth 2.0 Token Exchange](https://www.rfc-editor.org/rfc/rfc8693)
+- [OAuth 2.0 Token Introspection](https://www.rfc-editor.org/rfc/rfc7662)
+
+#### Financial-grade API (FAPI)
+
+- [Financial-grade API Security Profile 1.0 - Part 1: Baseline](https://openid.net/specs/openid-financial-api-part-1-1_0.html)
+- [Financial-grade API Security Profile 1.0 - Part 2: Advanced](https://openid.net/specs/openid-financial-api-part-2-1_0.html)
+- [JWT Secured Authorization Response Mode for OAuth 2.0 (JARM)](https://openid.net/specs/oauth-v2-jarm.html)
+
 ### Draft
+
+- [OAuth 2.0 Security Best Current Practice](https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html)
+- [OpenID Connect Federation 1.0](https://openid.net/specs/openid-connect-federation-1_0.html)
+
+#### Financial-grade API (FAPI)
+
+- [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html)
 
 ## Books
 
