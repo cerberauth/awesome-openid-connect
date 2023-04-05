@@ -8,6 +8,7 @@ openSource: false
 features:
 - Authorization Code Flow
 - Dynamic Client Registration
+- Refresh Token Rotation
 ---
 
 An easy to implement, adaptable authentication and authorization SaaS platform.

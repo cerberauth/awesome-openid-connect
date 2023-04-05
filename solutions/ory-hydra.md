@@ -8,6 +8,7 @@ openSource: true
 features:
 - Authorization Code Flow
 - Dynamic Client Registration
+- Refresh Token Rotation
 ---
 
 OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source.
