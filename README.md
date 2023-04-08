@@ -89,14 +89,15 @@ Where to discover learning resources about OpenID Connect.
 
 ## Books
 
+- [The Little Book of OAuth 2.0 RFCs](https://www.amazon.com/Little-Book-OAuth-2-0-RFCs/dp/B084DFYJS1/) by Aaron Parecki
+- [OAuth 2.0 Simplified](https://www.amazon.com/OAuth-2-0-Simplified-Aaron-Parecki/dp/1387751514/) by Aaron Parecki
+- [Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2](https://www.amazon.com/Solving-Identity-Management-Modern-Applications-ebook/dp/B0BMQHF83G/) by Yvonne Wilson
+- [Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 protocols to secure applications](https://www.amazon.com/Keycloak-Management-Applications-protocols-applications-ebook/dp/B092KP135B/) by Stian Thorgersen and Pedro Igor Silva
+
 ## Websites
 
 - [OpenID](https://openid.net/)
 - [OAuth](https://oauth.net/)
-
-## Newsletters
-
-## Podcasts
 
 # Contributing
 
