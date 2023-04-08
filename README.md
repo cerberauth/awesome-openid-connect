@@ -98,6 +98,11 @@ Where to discover learning resources about OpenID Connect.
 
 - [OpenID](https://openid.net/)
 - [OAuth](https://oauth.net/)
+- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/)
+- [CerberAuth](https://www.cerberauth.com/)
+- [Curity Resources](https://curity.io/resources/openid-connect/)
+- [Okta Blog](https://developer.okta.com/blog/tags/oidc/)
+- [Medium OAuth2](https://medium.com/oauth-2)
 
 # Contributing
 
