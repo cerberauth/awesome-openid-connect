@@ -73,15 +73,15 @@ Where to discover learning resources about OpenID Connect.
 ### Published
 
 - [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html)
-- [The OAuth 2.0 Authorization Framework](https://www.rfc-editor.org/rfc/rfc6749)
-- [JSON Web Token (JWT)](https://www.rfc-editor.org/rfc/rfc7519)
-- [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://www.rfc-editor.org/rfc/rfc6750)
+- [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
+- [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519)
+- [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750)
 - [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html)
-- [OAuth 2.0 Authorization Server Metadata](https://www.rfc-editor.org/rfc/rfc8414)
-- [OAuth 2.0 Token Revocation](https://www.rfc-editor.org/rfc/rfc7009)
+- [OAuth 2.0 Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414)
+- [OAuth 2.0 Token Revocation](https://datatracker.ietf.org/doc/html/rfc7009)
 - [OpenID Connect Dynamic Client Registration](https://openid.net/specs/openid-connect-registration-1_0.html)
-- [OAuth 2.0 Token Exchange](https://www.rfc-editor.org/rfc/rfc8693)
-- [OAuth 2.0 Token Introspection](https://www.rfc-editor.org/rfc/rfc7662)
+- [OAuth 2.0 Token Exchange](https://datatracker.ietf.org/doc/html/rfc8693)
+- [OAuth 2.0 Token Introspection](https://datatracker.ietf.org/doc/html/rfc7662)
 
 #### Financial-grade API (FAPI)
 
