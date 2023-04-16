@@ -62,8 +62,10 @@ Where to discover learning resources about OpenID Connect.
 - [authorization_code](https://datatracker.ietf.org/doc/html/rfc6749#section-1.3.1)
 - [refresh_token](https://datatracker.ietf.org/doc/html/rfc6749#section-1.5)
 - [client_credentials](https://datatracker.ietf.org/doc/html/rfc6749#section-4.4)
+- [urn:ietf:params:oauth:grant-type:token-exchange](https://datatracker.ietf.org/doc/html/rfc8693)
 - [urn:ietf:params:oauth:grant-type:device_code](https://datatracker.ietf.org/doc/html/rfc8628#section-3.4)
 - [urn:ietf:params:oauth:grant-type:jwt-bearer](https://datatracker.ietf.org/doc/html/rfc7523)
+- [urn:ietf:params:oauth:grant-type:token-exchange](https://datatracker.ietf.org/doc/html/rfc8693)
 - [PKCE Extension](https://datatracker.ietf.org/doc/html/rfc7636)
 
 ## Specifications
