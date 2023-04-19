@@ -22,10 +22,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - An easy to implement, adaptable authentication and authorization SaaS platform.
 * [Authlete](https://www.authlete.com/) - OAuth/OIDC Component as a Service
 * [Curity Identity Server](https://curity.io/product/) - Providing secure access to data and services for various types of users across many different channels presents a real challenge.
-* [WSO2 Identity Server](https://wso2.com/identity-server/) - WSO2 Identity Server provides modern identity and access management capabilities that can be easily built into organization’s customer experience (CX) applications.
 * [Keycloak](https://www.keycloak.org/) - Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.
+* [Gravitee.io Access Management](https://www.gravitee.io/platform/access-management) - Gravitee.io Access Management is a flexible, lightweight and blazing-fast open source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
 * [Okta](https://www.okta.com/) - Okta is a fully extensible solution that enables both customer and workforce identity with federation, single sign-on, API security and workflows for both cloud and on-prem solutions.
 * [Ory Hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source.
+* [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
+* [WSO2 Identity Server](https://wso2.com/identity-server/) - WSO2 Identity Server provides modern identity and access management capabilities that can be easily built into organization’s customer experience (CX) applications.
 
 ## Relying Party Libraries
 
@@ -62,7 +64,6 @@ Where to discover learning resources about OpenID Connect.
 - [authorization_code](https://datatracker.ietf.org/doc/html/rfc6749#section-1.3.1)
 - [refresh_token](https://datatracker.ietf.org/doc/html/rfc6749#section-1.5)
 - [client_credentials](https://datatracker.ietf.org/doc/html/rfc6749#section-4.4)
-- [urn:ietf:params:oauth:grant-type:token-exchange](https://datatracker.ietf.org/doc/html/rfc8693)
 - [urn:ietf:params:oauth:grant-type:device_code](https://datatracker.ietf.org/doc/html/rfc8628#section-3.4)
 - [urn:ietf:params:oauth:grant-type:jwt-bearer](https://datatracker.ietf.org/doc/html/rfc7523)
 - [urn:ietf:params:oauth:grant-type:token-exchange](https://datatracker.ietf.org/doc/html/rfc8693)
