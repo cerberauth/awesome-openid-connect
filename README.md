@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - An easy to implement, adaptable authentication and authorization SaaS platform.
 * [Authlete](https://www.authlete.com/) - OAuth/OIDC Component as a Service
+* [Connect2id](https://connect2id.com/products/server) - The identity server that just works and keeps making brilliant sense. Even when you're well past the simple use cases or facing a sudden deluge of visitor traffic.
 * [Curity Identity Server](https://curity.io/product/) - Providing secure access to data and services for various types of users across many different channels presents a real challenge.
 * [Keycloak](https://www.keycloak.org/) - Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.
 * [Gravitee.io Access Management](https://www.gravitee.io/platform/access-management) - Gravitee.io Access Management is a flexible, lightweight and blazing-fast open source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
