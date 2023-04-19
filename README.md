@@ -78,6 +78,7 @@ Where to discover learning resources about OpenID Connect.
 - [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519)
 - [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750)
 - [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html)
+- [OpenID Connect Back-Channel Logout](https://openid.net/specs/openid-connect-backchannel-1_0.html)
 - [OAuth 2.0 Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414)
 - [OAuth 2.0 Token Revocation](https://datatracker.ietf.org/doc/html/rfc7009)
 - [OpenID Connect Dynamic Client Registration](https://openid.net/specs/openid-connect-registration-1_0.html)
