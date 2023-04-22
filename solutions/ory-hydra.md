@@ -6,7 +6,6 @@ certified: true
 openSource: true
 
 features:
-- Authorization Code Flow
 - Dynamic Client Registration
 - Refresh Token Rotation
 
