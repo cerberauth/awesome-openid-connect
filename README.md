@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Active Directory Federation Services ADFS](https://learn.microsoft.com/en-us/windows-server/identity/active-directory-federation-services) - 
 * [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - A software component developed by Microsoft running on Windows Server to provide users with single sign-on access to systems and applications located across organizational boundaries.
+* [Authelia](https://www.authelia.com/) - An open-source authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
 * [Authentik](https://goauthentik.io/) - An open-source Identity Provider focused on flexibility and versatility
 * [Authlete](https://www.authlete.com/) - OAuth/OIDC Component as a Service
 * [Connect2id](https://connect2id.com/products/server) - The identity server that just works and keeps making brilliant sense. Even when you're well past the simple use cases or facing a sudden deluge of visitor traffic.
