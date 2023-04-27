@@ -14,6 +14,10 @@ grant_types:
 - authorization_code
 - refresh_token
 - urn:ietf:params:oauth:grant-type:jwt-bearer
+
+prompts:
+- none
+- login
 ---
 
 OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source.
