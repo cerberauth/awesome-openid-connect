@@ -80,6 +80,8 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html) - Defines the core OpenID Connect functionality: authentication built on top of OAuth 2.0 and the use of Claims to communicate information about the End-User. It also describes the security and privacy considerations for using OpenID Connect.
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749) - Underlying OAuth 2.0 protocol OpenID Connect is based on.
 - [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens mentioned in OAuth 2.0 and OpenID Connect specifications.
+- [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516) - Specifications for JWE which represents encrypted content using JSON-based data structures.
+- [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515) - Specifications for JWS which represents content secured with digital signatures.
 - [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750) - Describes how to use bearer tokens in HTTP requests to access OAuth 2.0 protected resources.
 - [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html) - Mechanism for an OpenID Connect Relying Party to discover the End-User's OpenID Provider and obtain information needed to interact with it.
 - [OpenID Connect Back-Channel Logout](https://openid.net/specs/openid-connect-backchannel-1_0.html) - Logout mechanism that uses direct back-channel communication between the OpenID Connect provider (OP) and Relying Parties (RPs) being logged out.
