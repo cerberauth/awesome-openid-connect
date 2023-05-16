@@ -1,6 +1,6 @@
 # Awesome OpenID Connect [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome OpenID Connect providers, services, libraries and resources.
+A curated list of awesome providers, services, libraries and resources for OpenId Connect, the identity layer on top of OAuth 2.0 application authorization protocol.
 
 ## Contents
 
@@ -20,8 +20,8 @@ A curated list of awesome OpenID Connect providers, services, libraries and reso
 
 - [Active Directory Federation Services ADFS](https://learn.microsoft.com/en-us/windows-server/identity/active-directory-federation-services) - Software component developed by Microsoft running on Windows Server to provide users with single sign-on access to systems and applications located across organizational boundaries.
 - [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth2 service that is available on the cloud or can be installed on premise.
-- [Authelia](https://www.authelia.com/) - Open-source authentication, authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
-- [Authentik](https://goauthentik.io/) - Open-source Identity Provider focused on flexibility and versatility.
+- [Authelia](https://www.authelia.com/) - Open Source authentication, authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
+- [Authentik](https://goauthentik.io/) - Open Source Identity Provider focused on flexibility and versatility.
 - [Authlete](https://www.authlete.com/) - Set of APIs for developers to implement OAuth authorization servers and OpenID Connect identity providers.
 - [Connect2id](https://connect2id.com/products/server) - OpenID Connect SSO and IdP server for enterprise.
 - [Curity Identity Server](https://curity.io/product/) - API Security solution that brings identity and API access management together.
@@ -110,10 +110,10 @@ Where to discover learning resources about OpenID Connect.
 
 - [OpenID](https://openid.net/) - OpenID Connect official website.
 - [OAuth](https://oauth.net/) - OAuth website maintained by Aaron Parecki which list different resources about the protocol.
-- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie Blog posts about OAuth topic.
+- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie blog posts about OAuth topic.
 - [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth2.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.
-- [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta Blog posts about OAuth2 and OpenID Connect.
+- [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta blog posts about OAuth2 and OpenID Connect.
 - [Medium OAuth2](https://medium.com/oauth-2) - Medium blog talking about OAuth2.
 
 ## Contributing
