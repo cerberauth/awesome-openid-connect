@@ -28,6 +28,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
 - [ForgeRock Identity Platform](https://www.forgerock.com/platform/identity-management) - Standards-based OpenID Connect Provider/OAuth2 Authorization Server with an Access Management server.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
+- [Gluu](https://gluu.org/openid/) - OpenId Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
 - [Okta](https://www.okta.com/) - Extensible solution that enables both customer and workforce identity with federation, single sign-on, API security and workflows for both cloud and on-prem solutions.
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
