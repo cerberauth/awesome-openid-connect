@@ -95,9 +95,9 @@ Where to discover learning resources about OpenID Connect.
 
 #### Draft
 
-- [OAuth 2.0 Security Best Current Practice](https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html)
-- [OpenID Connect Federation 1.0](https://openid.net/specs/openid-connect-federation-1_0.html)
-- [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html)
+- [OAuth 2.0 Security Best Current Practice](https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html) - Best security practice when using OAuth 2.0 and OpenId Connect.
+- [OpenID Connect Federation 1.0](https://openid.net/specs/openid-connect-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
+- [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 
 ### Books
 
