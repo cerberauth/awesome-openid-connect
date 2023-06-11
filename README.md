@@ -65,7 +65,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 Where to discover learning resources about OpenID Connect.
 
-### Grant Types Specifications
+### Flows / Grant Types Specifications
 
 - [authorization_code](https://datatracker.ietf.org/doc/html/rfc6749?grant_type=authorization_code#section-1.3.1) - OAuth 2.0 Authorization Code Grant Type which fit well public client authorization like web apps.
 - [refresh_token](https://datatracker.ietf.org/doc/html/rfc6749?grant_type=refresh_token#section-1.5) - OAuth 2.0 Refresh Token Grant Type used to exchange a refresh token against a short life access token and sometime a new refresh token as well.
