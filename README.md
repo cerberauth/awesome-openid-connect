@@ -1,6 +1,6 @@
 # Awesome OpenID Connect [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome providers, services, libraries and resources for OpenId Connect, the identity layer on top of OAuth 2.0 application authorization protocol.
+A curated list of awesome providers, services, libraries and resources for OpenID Connect, the identity layer on top of OAuth 2.0 application authorization protocol.
 
 ## Contents
 
@@ -28,7 +28,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
 - [ForgeRock Identity Platform](https://www.forgerock.com/platform/identity-management) - Standards-based OpenID Connect Provider/OAuth2 Authorization Server with an Access Management server.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
-- [Gluu](https://gluu.org/openid/) - OpenId Connect Provider and FAPI certified solution and integrated with IAM.
+- [Gluu](https://gluu.org/openid/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
 - [Okta](https://www.okta.com/) - Extensible solution that enables both customer and workforce identity with federation, single sign-on, API security and workflows for both cloud and on-prem solutions.
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
@@ -94,10 +94,11 @@ Where to discover learning resources about OpenID Connect.
 - [Financial-grade API Security Profile 1.0 - Part 1: Baseline](https://openid.net/specs/openid-financial-api-part-1-1_0.html) - Baseline security profile of OAuth that is suitable for protecting APIs with a moderate inherent risk in the context of Financial-grade APIs.
 - [Financial-grade API Security Profile 1.0 - Part 2: Advanced](https://openid.net/specs/openid-financial-api-part-2-1_0.html) - Advanced security profile of OAuth that is suitable to be used for protecting APIs with high inherent risk in the context of Financial-grade APIs.
 - [JWT Secured Authorization Response Mode for OAuth 2.0 (JARM)](https://openid.net/specs/oauth-v2-jarm.html) - JWT-based mode to encode OAuth authorization response parameters with additional claims used to further protect the transmission.
+- [OpenID Connect Session Management](https://openid.net/specs/openid-connect-session-1_0.html) - Specifications about OpenID Connect session management.
 
 #### Draft
 
-- [OAuth 2.0 Security Best Current Practice](https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html) - Best security practice when using OAuth 2.0 and OpenId Connect.
+- [OAuth 2.0 Security Best Current Practice](https://www.ietf.org/archive/id/draft-ietf-oauth-security-topics-22.html) - Best security practice when using OAuth 2.0 and OpenID Connect.
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-connect-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 
