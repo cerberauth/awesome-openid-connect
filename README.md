@@ -7,7 +7,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [OpenID Provider Servers and Services](#openid-provider-servers-and-services)
 - [Relying Party Libraries](#relying-party-libraries)
 - [Resources](#resources)
-    - [Grant Types Specifications](#grant-types-specifications)
+    - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
     - [Books](#books)
     - [Websites](#websites)
