@@ -18,7 +18,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 *OpenID Connect Provider as SaaS solution and Open Source solutions.*
 
-- [Active Directory Federation Services ADFS](https://learn.microsoft.com/en-us/windows-server/identity/active-directory-federation-services) - Software component developed by Microsoft running on Windows Server to provide users with single sign-on access to systems and applications located across organizational boundaries.
+- [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth2 service that is available on the cloud or can be installed on premise.
 - [Authelia](https://www.authelia.com/) - Open Source authentication, authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
 - [Authentik](https://goauthentik.io/) - Open Source Identity Provider focused on flexibility and versatility.
