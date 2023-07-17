@@ -85,7 +85,8 @@ Where to discover learning resources about OpenID Connect.
 - [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens mentioned in OAuth 2.0 and OpenID Connect specifications.
 - [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516) - Specifications for JWE which represents encrypted content using JSON-based data structures.
 - [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515) - Specifications for JWS which represents content secured with digital signatures.
-- [The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750) - Describes how to use bearer tokens in HTTP requests to access OAuth 2.0 protected resources.
+- [Oauth 2.0 Authentication Method Reference Values](https://datatracker.ietf.org/doc/html/rfc8176) - List authentication method values for the AMR token claim.
+- [OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750) - Describes how to use bearer tokens in HTTP requests to access OAuth 2.0 protected resources.
 - [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html) - Mechanism for an OpenID Connect Relying Party to discover the End-User's OpenID Provider and obtain information needed to interact with it.
 - [OpenID Connect Back-Channel Logout](https://openid.net/specs/openid-connect-backchannel-1_0.html) - Logout mechanism that uses direct back-channel communication between the OpenID Connect provider (OP) and Relying Parties (RPs) being logged out.
 - [OAuth 2.0 Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414) - A metadata format that an OAuth 2.0 client can use to obtain the information needed to interact with an OAuth 2.0 authorization server.
