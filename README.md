@@ -37,6 +37,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
 - [WSO2 Identity Server](https://wso2.com/identity-server/) - Identity Server which provides modern identity and access management capabilities that can be easily built into organization's customer experience (CX) applications.
+- [Zitadel](https://github.com/zitadel/zitadel) - Open Source User management solution with OpenID Connect provider (OP) and SAMLv2 ready to use. 
 
 ## Relying Party Libraries
 
