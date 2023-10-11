@@ -85,6 +85,7 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html) - Defines the core OpenID Connect functionality: authentication built on top of OAuth 2.0 and the use of Claims to communicate information about the End-User. It also describes the security and privacy considerations for using OpenID Connect.
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749) - Underlying OAuth 2.0 protocol OpenID Connect is based on.
 - [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens mentioned in OAuth 2.0 and OpenID Connect specifications.
+- [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517) - JavaScript Object Notation (JSON) data structure that represents a cryptographic key provided by OpenID Connect Provider. 
 - [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516) - Specifications for JWE which represents encrypted content using JSON-based data structures.
 - [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515) - Specifications for JWS which represents content secured with digital signatures.
 - [Oauth 2.0 Authentication Method Reference Values](https://datatracker.ietf.org/doc/html/rfc8176) - List authentication method values for the AMR token claim.
