@@ -69,6 +69,10 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client.
 - [zitadel/oidc](https://github.com/zitadel/oidc) - OpenID Connect client and server library certified by the OpenID Foundation.
 
+### Python
+
+- [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc/) - A Django OpenID Connect relying party library maintained by Mozilla.
+
 ## Resources
 
 Where to discover learning resources about OpenID Connect.
