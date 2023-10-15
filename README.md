@@ -53,6 +53,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [NextAuth.js](https://github.com/nextauthjs/next-auth) - Open Source authentication solution for Next.js applications including using OpenID Connect.
 - [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt.js 2.
 - [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
+- [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - Angular library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
 - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
 
 ### PHP
