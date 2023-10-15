@@ -60,6 +60,10 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Integration with OAuth 2.0 service providers for PHP.
 
+### C#
+
+- [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - C# / .NET OpenID Connect relying party client library for native mobile/desktop applications.
+
 ### Go
 
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client.
