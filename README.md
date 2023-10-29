@@ -6,6 +6,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 - [OpenID Providers (OP)](#openid-providers-op)
 - [Relying Parties (RP) Libraries](#relying-parties-rp-libraries)
+    - [Java](#java)
     - [JavaScript](#javascript)
     - [PHP](#php)
     - [C#](#c)
@@ -49,6 +50,11 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 ## Relying Parties (RP) Libraries
 
 *Relying Parties (RP) Libraries for implementing OpenID Connect on a client application.*
+
+### Java
+
+- [maven/com.nimbusds/oauth2-oidc-sdk](https://mvnrepository.com/artifact/com.nimbusds/oauth2-oidc-sdk) - Java SDK developed by connect2id with OpenID Connect, FAPI, Federation and eKYC / Identity Assurance extensions.
+- [Spring Security](https://docs.spring.io/spring-security/reference/servlet/oauth2/login/index.html) - Spring Security implements OAuth 2.0 and OpenID Connect for Spring based applications.
 
 ### JavaScript
 
