@@ -11,6 +11,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
     - [C#](#c)
     - [Golang](#golang)
     - [Python](#python)
+    - [Ruby](#ruby)
 - [Resources](#resources)
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
@@ -78,6 +79,11 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 ### Python
 
 - [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc/) - A Django OpenID Connect relying party library maintained by Mozilla.
+
+### Ruby
+
+- [openid_connect](hhttps://github.com/nov/openid_connect) - Ruby OpenID Connect Relying party (RP) and Provider (OP) library.
+- [omniauth_openid_connect](https://github.com/omniauth/omniauth_openid_connect) - OpenID Connect Strategy for Ruby OmniAuth library.
 
 ## Resources
 
