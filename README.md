@@ -4,8 +4,13 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 ## Contents
 
-- [OpenID Provider Servers and Services](#openid-provider-servers-and-services)
-- [Relying Party Libraries](#relying-party-libraries)
+- [OpenID Providers (OP)](#openid-providers-op)
+- [Relying Parties (RP) Libraries](#relying-parties-rp-libraries)
+    - [JavaScript](#javascript)
+    - [PHP](#php)
+    - [C#](#c)
+    - [Golang](#golang)
+    - [Python](#python)
 - [Resources](#resources)
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
@@ -14,9 +19,9 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 ---
 
-## OpenID Provider Servers and Services
+## OpenID Providers (OP)
 
-*OpenID Connect Provider as SaaS solution and Open Source solutions.*
+*OpenID Connect Providers as SaaS and Open Source solutions.*
 
 - [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth2 service that is available on the cloud or can be installed on premise.
@@ -39,9 +44,9 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [WSO2 Identity Server](https://wso2.com/identity-server/) - Identity Server which provides modern identity and access management capabilities that can be easily built into organization's customer experience (CX) applications.
 - [Zitadel](https://github.com/zitadel/zitadel) - Open Source User management solution with OpenID Connect provider (OP) and SAMLv2 ready to use. 
 
-## Relying Party Libraries
+## Relying Parties (RP) Libraries
 
-*Libraries for implementing OpenID Connect on a client application.*
+*Relying Parties (RP) Libraries for implementing OpenID Connect on a client application.*
 
 ### JavaScript
 
@@ -64,7 +69,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 - [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
 
-### Go
+### Golang
 
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client.
 - [zitadel/oidc](https://github.com/zitadel/oidc) - OpenID Connect client and server library certified by the OpenID Foundation.
