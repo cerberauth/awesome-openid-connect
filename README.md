@@ -16,6 +16,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [Resources](#resources)
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
+    - [OAuth and OpenID Connect Common Acronyms](#oauth-and-openid-connect-common-acronyms)
     - [Books](#books)
     - [Websites](#websites)
 
@@ -141,6 +142,33 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics) - Best security practice when using OAuth 2.0 and OpenID Connect.
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
+
+### OAuth and OpenID Connect Common Acronyms
+
+<dl>
+    <dd><strong>OIDC</strong> (OpenID Connect)</dd>
+    <dt>OpenID Connect is a simple identity layer on top of the OAuth 2.0 [RFC6749] protocol</dt>
+</dl>
+
+<dl>
+    <dd><strong>OP</strong> (OpenID Provider)</dd>
+    <dt>OAuth 2.0 Authorization Server that is capable of Authenticating the End-User and providing Claims to a Relying Party about the Authentication event and the End-User.</dt>
+</dl>
+
+<dl>
+    <dd><strong>RP</strong> (Relying Party)</dd>
+    <dt>OAuth 2.0 Client application requiring End-User Authentication and Claims from an OpenID Provider.</dt>
+</dl>
+
+<dl>
+    <dd><strong>CIBA</strong> (Client Initiated Backchannel Authentication)</dd>
+    <dt>OpenID Connect Client Initiated Backchannel Authentication Flow is an authentication flow like OpenID Connect. However, unlike OpenID Connect, there is direct Relying Party to OpenID Provider communication without redirects through the user's browser.</dt>
+</dl>
+
+<dl>
+    <dd><strong>FAPI</strong> (Financial-Grade API)</dd>
+    <dt>The Financial-grade API is a highly secured OAuth profile that aims to provide specific implementation guidelines for security and interoperability. The Financial-grade API security profile can be applied to APIs in any market area that requires a higher level of security than provided by standard OAuth or OpenID Connect</dt>
+</dl>
 
 ### Books
 
