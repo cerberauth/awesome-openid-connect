@@ -88,7 +88,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 ### Ruby
 
-- [openid_connect](hhttps://github.com/nov/openid_connect) - Ruby OpenID Connect Relying party (RP) and Provider (OP) library.
+- [openid_connect](https://github.com/nov/openid_connect) - Ruby OpenID Connect Relying party (RP) and Provider (OP) library.
 - [omniauth_openid_connect](https://github.com/omniauth/omniauth_openid_connect) - OpenID Connect Strategy for Ruby OmniAuth library.
 
 ## Resources
