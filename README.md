@@ -13,6 +13,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
     - [Golang](#golang)
     - [Python](#python)
     - [Ruby](#ruby)
+    - [Rust](#rust)
 - [Resources](#resources)
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
@@ -90,6 +91,10 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 - [openid_connect](https://github.com/nov/openid_connect) - Ruby OpenID Connect Relying party (RP) and Provider (OP) library.
 - [omniauth_openid_connect](https://github.com/omniauth/omniauth_openid_connect) - OpenID Connect Strategy for Ruby OmniAuth library.
+
+### Rust
+
+- [openidconnect](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Relying party (RP) library for Rust.
 
 ## Resources
 
