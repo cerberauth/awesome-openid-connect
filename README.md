@@ -36,6 +36,7 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [Connect2id](https://connect2id.com/products/server) - OpenID Connect SSO and IdP server for enterprise.
 - [Curity Identity Server](https://curity.io/product/) - API Security solution that brings identity and API access management together.
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
+- [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
 - [ForgeRock Identity Platform](https://www.forgerock.com/platform/identity-management) - Standards-based OpenID Connect Provider/OAuth2 Authorization Server with an Access Management server.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
