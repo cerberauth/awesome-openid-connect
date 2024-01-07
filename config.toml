@@ -1,5 +1,5 @@
 baseURL = 'https://awesome-openidconnect.cerberauth.com'
-languageCode = 'en-us'
-title = 'Awesome OpenId Connect'
+languageCode = 'en'
+title = 'Awesome OpenID Connect'
 
 [Taxonomies]
