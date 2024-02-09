@@ -58,8 +58,28 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 
 *Relying Parties (RP) Libraries for implementing OpenID Connect on a client application.*
 
+### C
+
+- [liboauth2](https://github.com/OpenIDC/liboauth2) - Generic library to build C-based OpenID Connect Provider and Relying Party.
+- [mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) - OpenID Connect Relying Party certified implementation for Apache Server 2.x.
+- [ngx_oauth2_module](https://github.com/OpenIDC/ngx_oauth2_module) - OpenID Connect Relying Party certified implementation for Nginx.
+
+### C#
+
+- [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
+
+### Erlang
+
+- [oidcc](https://github.com/erlef/oidcc) - Certified OpenID Connect Relying Party client library for Erlang and Elixir with FAPI support.
+
+### Golang
+
+- [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client.
+- [zitadel/oidc](https://github.com/zitadel/oidc) - OpenID Connect client and server library certified by the OpenID Foundation.
+
 ### Java
 
+- [com.google.oauth-client/google-oauth-client](https://github.com/googleapis/google-oauth-java-client) - OAuth Relying Party Java library written by Google for OAuth 2.0 with Android support.
 - [com.nimbusds/oauth2-oidc-sdk](https://mvnrepository.com/artifact/com.nimbusds/oauth2-oidc-sdk) - Java SDK developed by connect2id with OpenID Connect, FAPI, Federation and eKYC / Identity Assurance extensions.
 - [Spring Security](https://docs.spring.io/spring-security/reference/servlet/oauth2/login/index.html) - Spring Security implements OAuth 2.0 and OpenID Connect for Spring based applications.
 
@@ -76,18 +96,13 @@ A curated list of awesome providers, services, libraries and resources for OpenI
 - [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
 - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Library which bring support for OAuth 2.0 and OpenID Connect (OIDC) in Angular.
 
+### OCaml
+
+- [ocaml-oidc](https://github.com/ulrikstrid/ocaml-oidc) - Certified OpenID Connect Relying Party implementation in OCaml.
+
 ### PHP
 
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Integration with OAuth 2.0 service providers for PHP.
-
-### C#
-
-- [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
-
-### Golang
-
-- [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client.
-- [zitadel/oidc](https://github.com/zitadel/oidc) - OpenID Connect client and server library certified by the OpenID Foundation.
 
 ### Python
 
