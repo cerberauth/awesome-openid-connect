@@ -1,16 +1,19 @@
 # Awesome OpenID Connect [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.
+OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins. Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.
 
 ## Contents
 
 - [OpenID Providers (OP)](#openid-providers-op)
 - [Relying Parties (RP) Libraries](#relying-parties-rp-libraries)
+    - [C](#c)
+    - [C#](#c-1)
+    - [Erlang](#erlang)
+    - [Golang](#golang)
     - [Java](#java)
     - [JavaScript](#javascript)
+    - [OCaml](#ocaml)
     - [PHP](#php)
-    - [C#](#c)
-    - [Golang](#golang)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
