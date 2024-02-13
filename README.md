@@ -1,6 +1,8 @@
 # Awesome OpenID Connect [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins. Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.
+> OpenID Connect is an authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins.
+
+> Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.
 
 ## Contents
 
