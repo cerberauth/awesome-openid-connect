@@ -16,3 +16,5 @@ grant_types:
 ---
 
 An easy to implement, adaptable authentication and authorization SaaS platform.
+
+List of supported [Grant Types](https://auth0.com/docs/get-started/applications/application-grant-types)
