@@ -22,9 +22,9 @@
 - [Resources](#resources)
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
-    - [Books](#books)
     - [Websites](#websites)
     - [Playground](#playground)
+    - [Books](#books)
 
 ---
 
@@ -174,14 +174,6 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 
-### Books
-
-- [The Little Book of OAuth 2.0 RFCs by Aaron Parecki](https://www.amazon.com/Little-Book-OAuth-2-0-RFCs/dp/B084DFYJS1/)
-- [OAuth 2.0 Simplified by Aaron Parecki](https://www.amazon.com/OAuth-2-0-Simplified-Aaron-Parecki/dp/1387751514/)
-- [Getting Started with OAuth 2.0 by Ryan Boyd](https://www.oreilly.com/library/view/getting-started-with/9781449317843/)
-- [Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 by Yvonne Wilson](https://www.amazon.com/Solving-Identity-Management-Modern-Applications-ebook/dp/B0BMQHF83G/)
-- [Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 protocols to secure applications by Stian Thorgersen and Pedro Igor Silva](https://www.amazon.com/Keycloak-Management-Applications-protocols-applications-ebook/dp/B092KP135B/)
-
 ### Websites
 
 - [OpenID](https://openid.net/) - OpenID Connect official website.
@@ -197,6 +189,14 @@ Where to discover learning resources about OpenID Connect.
 
 - [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
 - [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
+
+### Books
+
+- [The Little Book of OAuth 2.0 RFCs by Aaron Parecki](https://www.amazon.com/Little-Book-OAuth-2-0-RFCs/dp/B084DFYJS1/)
+- [OAuth 2.0 Simplified by Aaron Parecki](https://www.amazon.com/OAuth-2-0-Simplified-Aaron-Parecki/dp/1387751514/)
+- [Getting Started with OAuth 2.0 by Ryan Boyd](https://www.oreilly.com/library/view/getting-started-with/9781449317843/)
+- [Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 by Yvonne Wilson](https://www.amazon.com/Solving-Identity-Management-Modern-Applications-ebook/dp/B0BMQHF83G/)
+- [Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 protocols to secure applications by Stian Thorgersen and Pedro Igor Silva](https://www.amazon.com/Keycloak-Management-Applications-protocols-applications-ebook/dp/B092KP135B/)
 
 ## Contributing
 
