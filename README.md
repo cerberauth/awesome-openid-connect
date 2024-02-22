@@ -19,6 +19,7 @@
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
+- [Relying Parties (RP) Software Plugins](#relying-parties-rp-software-plugins)
 - [Resources](#resources)
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
@@ -123,6 +124,10 @@
 ### Rust
 
 - [openidconnect](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Relying party (RP) library for Rust.
+
+## Relying Parties (RP) Software Plugins
+
+- [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
 
 ## Resources
 
