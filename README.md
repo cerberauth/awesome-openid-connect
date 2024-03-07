@@ -95,6 +95,7 @@
 
 - [openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2/OpenID Connect library for JavaScript Runtimes.
+- [oidc-client-ts](https://github.com/authts/oidc-client-ts) - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
 
 *Libraries layer focused on specific framework integration*
 
