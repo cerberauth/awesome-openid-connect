@@ -188,6 +188,7 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID](https://openid.net/) - OpenID Connect official website.
 - [OAuth](https://oauth.net/) - OAuth website maintained by Aaron Parecki which list different resources about the protocol.
 - [ByteByteGo](https://blog.bytebytego.com/i/135955829/oauth-explained-with-simple-terms) - Oauth 2.0 explains using visual and simple terms.
+- [Aaron Parecki](https://aaronparecki.com/articles) - Aaron Parecki OAuth WG Member blog posts about OAuth 2.0.
 - [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie blog posts about OAuth topic.
 - [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth2.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.
