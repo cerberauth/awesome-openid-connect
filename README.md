@@ -35,7 +35,7 @@
 
 - [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth2 service that is available on the cloud or can be installed on premise.
 - [Authelia](https://www.authelia.com/) - Open Source authentication, authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
-- [Authentik](https://goauthentik.io/) - Open Source Identity Provider focused on flexibility and versatility.
+- [Authentik](https://github.com/goauthentik/authentik) - Open Source Identity Provider focused on flexibility and versatility.
 - [Authlete](https://www.authlete.com/) - Set of APIs for developers to implement OAuth authorization servers and OpenID Connect identity providers.
 - [AWS Cognito](https://aws.amazon.com/cognito/) - Cognito by Amazon Web Services has OpenID Connect provider in addition to IAM capabilities.
 - [Cloudentity](https://cloudentity.com/) - Cloud Identity and Authorization Platform with FAPI and eKYC support.
