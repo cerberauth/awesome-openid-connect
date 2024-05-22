@@ -33,7 +33,6 @@
 
 *OpenID Connect Providers as SaaS and Open Source solutions.*
 
-- [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth2 service that is available on the cloud or can be installed on premise.
 - [Authelia](https://www.authelia.com/) - Open Source authentication, authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
 - [Authentik](https://goauthentik.io/) - Open Source Identity Provider focused on flexibility and versatility.
@@ -53,6 +52,7 @@
 - [Okta](https://www.okta.com/) - Extensible solution that enables both customer and workforce identity with federation, single sign-on, API security and workflows for both cloud and on-prem solutions.
 - [OneLogin](https://www.onelogin.com/) - SaaS Employee and Customer IAM solution with OpenID Connect Provider capabilities.
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
+- [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
 - [SiteMinder](https://www.broadcom.com/products/identity/siteminder) - An IAM provided by Broadcom with OpenID Connect Provider support.
