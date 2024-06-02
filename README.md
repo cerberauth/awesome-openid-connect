@@ -24,7 +24,7 @@
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
     - [Websites](#websites)
-    - [Playground](#playground)
+    - [Playgrounds](#playgrounds)
     - [Books](#books)
 
 ---
@@ -193,11 +193,12 @@ Where to discover learning resources about OpenID Connect.
 - [Aaron Parecki](https://aaronparecki.com/articles) - Aaron Parecki OAuth WG Member blog posts about OAuth 2.0.
 - [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie blog posts about OAuth 2.0 topic.
 - [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth 2.0.
+- [Nacho](https://nacho.cerberauth.com/) - An OAuth 2.0 client creation helper helping to choose the right grant type depending on the application.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.
 - [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta blog posts about OAuth 2.0 and OpenID Connect.
 - [Medium OAuth 2.0](https://medium.com/oauth-2) - Medium blog with learnings, patterns and ideas around use of OAuth 2.0.
 
-### Playground
+### Playgrounds
 
 - [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
 - [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
