@@ -33,7 +33,7 @@
 
 *OpenID Connect Providers as SaaS and Open Source solutions.*
 
-- [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth2 service that is available on the cloud or can be installed on premise.
+- [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth 2.0 service that is available on the cloud as a SaaS.
 - [Authelia](https://www.authelia.com/) - Open Source authentication, authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing single sign-on (SSO).
 - [Authentik](https://github.com/goauthentik/authentik) - Open Source Identity Provider focused on flexibility and versatility.
 - [Authlete](https://www.authlete.com/) - Set of APIs for developers to implement OAuth authorization servers and OpenID Connect identity providers.
@@ -44,7 +44,7 @@
 - [Duende IdentityServer](https://duendesoftware.com/products/identityserver) - ASP.NET Core OpenID Connect Provider solution.
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
 - [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
-- [ForgeRock Identity Platform](https://www.forgerock.com/platform/identity-management) - Standards-based OpenID Connect Provider/OAuth2 Authorization Server with an Access Management server.
+- [ForgeRock Identity Platform](https://www.forgerock.com/platform/identity-management) - Standards-based OpenID Connect Provider / OAuth 2.0 Authorization Server with an Access Management server.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
@@ -190,11 +190,11 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth](https://oauth.net/) - OAuth website maintained by Aaron Parecki which list different resources about the protocol.
 - [ByteByteGo](https://blog.bytebytego.com/i/135955829/oauth-explained-with-simple-terms) - Oauth 2.0 explains using visual and simple terms.
 - [Aaron Parecki](https://aaronparecki.com/articles) - Aaron Parecki OAuth WG Member blog posts about OAuth 2.0.
-- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie blog posts about OAuth topic.
-- [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth2.
+- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie blog posts about OAuth 2.0 topic.
+- [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth 2.0.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.
-- [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta blog posts about OAuth2 and OpenID Connect.
-- [Medium OAuth2](https://medium.com/oauth-2) - Medium blog talking about OAuth2.
+- [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta blog posts about OAuth 2.0 and OpenID Connect.
+- [Medium OAuth 2.0](https://medium.com/oauth-2) - Medium blog with learnings, patterns and ideas around use of OAuth 2.0.
 
 ### Playground
 
