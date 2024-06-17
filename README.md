@@ -113,6 +113,7 @@
 ### PHP
 
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Integration with OAuth 2.0 service providers for PHP.
+- [Symfony Security](https://symfony.com/doc/current/security/access_token.html#using-openid-connect-oidc) - Symfony Security component OpenID Connect access token authentication.
 
 ### Python
 
