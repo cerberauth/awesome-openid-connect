@@ -53,7 +53,7 @@
 - [OpenIddict](https://github.com/openiddict/openiddict-core) - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 - [OneLogin](https://www.onelogin.com/) - SaaS Employee and Customer IAM solution with OpenID Connect Provider capabilities.
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
-- [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - Open Source and certified OpenID Connect Provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
+- [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 - [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
@@ -168,15 +168,18 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html) - Mechanism for an OpenID Connect Relying Party to discover the End-User's OpenID Provider and obtain information needed to interact with it.
 - [OpenID Connect Front-Channel Logout](https://openid.net/specs/openid-connect-frontchannel-1_0.html) - Logout mechanism that uses front-channel communication via the User Agent between the OpenID Connect provider (OP) and Relying Parties (RPs) being logged out that does not need an OpenID Provider iframe on Relying Party pages.
 - [OpenID Connect Back-Channel Logout](https://openid.net/specs/openid-connect-backchannel-1_0.html) - Logout mechanism that uses direct back-channel communication between the OpenID Connect provider (OP) and Relying Parties (RPs) being logged out.
+- [OpenID Connect RP-Initiated Logout](https://openid.net/specs/openid-connect-rpinitiated-1_0.html) - Defines how a Relying Party can requests that the OpenID Connect provider log out the End-User by redirecting the End-User's User Agent to the OP's Logout Endpoint.
 - [OAuth 2.0 Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414) - A metadata format that an OAuth 2.0 client can use to obtain the information needed to interact with an OAuth 2.0 authorization server.
 - [OAuth 2.0 Token Revocation](https://datatracker.ietf.org/doc/html/rfc7009) - Endpoint for OAuth authorization servers which allows clients to notify the authorization server that a previously obtained refresh or access token is no longer needed.
 - [OAuth 2.0 Dynamic Client Registration Protocol](https://datatracker.ietf.org/doc/html/rfc7591) - Defines how an OAuth 2.0 Relying Party (RP) can dynamically register with the OAuth 2.0 server provider.
-- [OpenID Connect Dynamic Client Registration](https://openid.net/specs/openid-connect-registration-1_0.html) - Defines how an OpenID Connect Relying Party (RP) can dynamically register with the End-User's OpenID Provider (OP).
+- [OAuth 2.0 Demonstrating Proof of Possession (DPoP)](https://datatracker.ietf.org/doc/html/rfc9449) - Demonstrates proof of possession of the client's private key for OAuth 2.0.
+- [OpenID Connect Dynamic Client Registration](https://openid.net/specs/openid-connect-registration-1_0.html) - Mechanism for sender-constraining OAuth 2.0 tokens via a proof-of-possession mechanism on the application level which allows for the detection of replay attacks with tokens.
 - [OAuth 2.0 Token Introspection](https://datatracker.ietf.org/doc/html/rfc7662) - Method for a protected resource to query an OAuth 2.0 authorization server to determine the active state of an OAuth 2.0 token and to determine meta-information about this token.
 - [Financial-grade API Security Profile 1.0 - Part 1: Baseline](https://openid.net/specs/openid-financial-api-part-1-1_0.html) - Baseline security profile of OAuth that is suitable for protecting APIs with a moderate inherent risk in the context of Financial-grade APIs.
 - [Financial-grade API Security Profile 1.0 - Part 2: Advanced](https://openid.net/specs/openid-financial-api-part-2-1_0.html) - Advanced security profile of OAuth that is suitable to be used for protecting APIs with high inherent risk in the context of Financial-grade APIs.
 - [JWT Secured Authorization Response Mode for OAuth 2.0 (JARM)](https://openid.net/specs/oauth-v2-jarm.html) - JWT-based mode to encode OAuth authorization response parameters with additional claims used to further protect the transmission.
 - [OpenID Connect Session Management](https://openid.net/specs/openid-connect-session-1_0.html) - Specifications about OpenID Connect session management.
+- [OpenID Connect Client-Initiated Backchannel Authentication Flow - Core 1.0](https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html) - Specifications for Client-Initiated Backchannel Authentication (CIBA) flow.
 
 #### Draft
 
