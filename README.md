@@ -53,6 +53,7 @@
 - [OpenIddict](https://github.com/openiddict/openiddict-core) - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 - [OneLogin](https://www.onelogin.com/) - SaaS Employee and Customer IAM solution with OpenID Connect Provider capabilities.
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
+- [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - Open Source and certified OpenID Connect Provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 - [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
