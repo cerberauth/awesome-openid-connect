@@ -1,0 +1,13 @@
+{
+  "name": "awesome-openidconnect",
+  "version": "1.0.0",
+  "description": "npx tailwindcss init",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -o ./public/css/main.css --minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
