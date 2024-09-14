@@ -3,3 +3,9 @@
     {{ readFile "README.md" | markdownify }}
 </main>
 {{ end }}
+
+{{ define "footer" }}
+<footer aria-role="footer">
+    <p className="text-sm text-gray-500">Proudly part of <a className="text-primary" target="_blank" href="https://www.cerberauth.com?utm_source=awesome-openidconnect">CerberAuth</a> community.</p>
+</footer>
+{{ end }}
