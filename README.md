@@ -10,6 +10,7 @@
 - [Relying Parties (RP) Libraries](#relying-parties-rp-libraries)
     - [C](#c)
     - [C#](#c-1)
+    - [Dart](#dart)
     - [Erlang](#erlang)
     - [Golang](#golang)
     - [Java](#java)
@@ -77,6 +78,10 @@
 ### C#
 
 - [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
+
+### Dart
+
+- [openid_client](https://github.com/appsup-dart/openid_client) - OpenID Connect Relying Party client library for Dart in Flutter, Web and Command Line.
 
 ### Erlang
 
