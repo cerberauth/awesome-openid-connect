@@ -1,8 +1,8 @@
 # Awesome OpenID Connect [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> OpenID Connect is an authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins.
+> OpenID Connect is an authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, etc). Basically, it allows a user to authenticate to a service using an existing account from an OpenID Connect Provider (OP), sharing some identity information after the user consent, and get an access token to access resources on a Relying Party (RP) application.
 
-> Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.
+> Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing and draft specs.
 
 ## Contents
 
@@ -163,7 +163,7 @@ Where to discover learning resources about OpenID Connect.
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749) - Underlying OAuth 2.0 protocol OpenID Connect is based on.
 - [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens mentioned in OAuth 2.0 and OpenID Connect specifications.
 - [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens](https://datatracker.ietf.org/doc/html/rfc9068) - JWT format and validation specifications in the context of OAuth 2.0.
-- [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517) - JavaScript Object Notation (JSON) data structure that represents a cryptographic key provided by OpenID Connect Provider. 
+- [JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517) - JavaScript Object Notation (JSON) data structure that represents a cryptographic key provided by OpenID Connect Provider.
 - [JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516) - Specifications for JWE which represents encrypted content using JSON-based data structures.
 - [JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515) - Specifications for JWS which represents content secured with digital signatures.
 - [OAuth 2.0 Threat Model and Security Considerations](https://datatracker.ietf.org/doc/html/rfc6819) - Known threats using OAuth 2.0 / OpenID Connect and countermeasures.
