@@ -50,13 +50,14 @@
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
 - [LoginRadius](https://www.loginradius.com/) - A SaaS CIAM that can act as an OpenID Connect provider.
+- [Logto](https://logto.io/) - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
 - [Okta](https://www.okta.com/) - Extensible solution that enables both customer and workforce identity with federation, single sign-on, API security and workflows for both cloud and on-prem solutions.
+- [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
+- [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
 - [OpenIddict](https://github.com/openiddict/openiddict-core) - .NET Open Source OpenID Connect Provider implementation with ASP.NET Core 2.1 (and higher) applications support.
 - [OneLogin](https://www.onelogin.com/) - SaaS Employee and Customer IAM solution with OpenID Connect Provider capabilities.
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
-- [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
-- [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
 - [SiteMinder](https://www.broadcom.com/products/identity/siteminder) - An IAM provided by Broadcom with OpenID Connect Provider support.
 - [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - Transmit Security is a CIAM solution that supports an OpenID Connect-based integration.
