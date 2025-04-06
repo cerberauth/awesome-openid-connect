@@ -25,6 +25,7 @@
     - [Flows / Grant Types Specifications](#flows--grant-types-specifications)
     - [Specifications](#specifications)
     - [Websites](#websites)
+    - [Thematic Articles](#thematic-articles)
     - [Playgrounds](#playgrounds)
     - [Books](#books)
 
@@ -217,6 +218,10 @@ Where to discover learning resources about OpenID Connect.
 - [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta blog posts about OAuth 2.0 and OpenID Connect.
 - [Medium OAuth 2.0](https://medium.com/oauth-2) - Medium blog with learnings, patterns and ideas around use of OAuth 2.0.
 - [Mike Jones: Self-Issued](https://self-issued.info/) - Mike Jones blog posts about OAuth 2.0 and OpenID Connect.
+
+### Thematic Articles
+
+- [OAuth for Model Context Protocol](https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol) - Aaron Parecki article about how OAuth works and how it should be used in the context of model context protocol (MCP) server.
 
 ### Playgrounds
 
