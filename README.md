@@ -60,12 +60,12 @@
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
+- [Scalekit](https://www.scalekit.com) - Add enterprise SSO and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
 - [SiteMinder](https://www.broadcom.com/products/identity/siteminder) - An IAM provided by Broadcom with OpenID Connect Provider support.
 - [SSOJet](https://ssojet.com) - A OpenID Connect based solution that seamlessly integrates enterprise SSO into your B2B SaaS. 
 - [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - Transmit Security is a CIAM solution that supports an OpenID Connect-based integration.
 - [WSO2 Identity Server](https://wso2.com/identity-server/) - Identity Server which provides modern identity and access management capabilities that can be easily built into organization's customer experience (CX) applications.
 - [Zitadel](https://github.com/zitadel/zitadel) - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
-
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
 
 ## Relying Parties (RP) Libraries
