@@ -66,6 +66,7 @@
 - [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - Transmit Security is a CIAM solution that supports an OpenID Connect-based integration.
 - [WSO2 Identity Server](https://wso2.com/identity-server/) - Identity Server which provides modern identity and access management capabilities that can be easily built into organization's customer experience (CX) applications.
 - [Zitadel](https://github.com/zitadel/zitadel) - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
+
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
 
 ## Relying Parties (RP) Libraries
