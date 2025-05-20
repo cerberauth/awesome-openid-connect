@@ -223,6 +223,7 @@ Where to discover learning resources about OpenID Connect.
 ### Thematic Articles
 
 - [OAuth for Model Context Protocol](https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol) - Aaron Parecki article about how OAuth works and how it should be used in the context of model context protocol (MCP) server.
+- [OAuth common vulnerabilities](https://portswigger.net/web-security/oauth) - PortSwigger article about OAuth 2.0 common vulnerabilities and how to mitigate them.
 
 ### Playgrounds
 
