@@ -43,6 +43,7 @@
 - [Cloudentity](https://cloudentity.com/) - Cloud Identity and Authorization Platform with FAPI and eKYC support.
 - [Connect2id](https://connect2id.com/products/server) - OpenID Connect SSO and IdP server for enterprise.
 - [Curity Identity Server](https://curity.io/product/) - API Security solution that brings identity and API access management together.
+- [Descope](https://docs.descope.com/identity-federation/applications/oidc-apps) - OpenID Connect Provider and Identity Federation solution that provides drag and drop user authentication and authorization flows.
 - [Duende IdentityServer](https://duendesoftware.com/products/identityserver) - ASP.NET Core OpenID Connect Provider solution.
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
 - [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
