@@ -195,6 +195,7 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Session Management](https://openid.net/specs/openid-connect-session-1_0.html) - Specifications about OpenID Connect session management.
 - [OpenID Connect Client-Initiated Backchannel Authentication Flow - Core 1.0](https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html) - Specifications for Client-Initiated Backchannel Authentication (CIBA) flow.
 - [OpenID Provider Authentication Policy Extension 1.0](https://openid.net/specs/openid-provider-authentication-policy-extension-1_0.html) - Specifications about a mechanism by which a Relying Party can request that particular authentication policies like multi-factor authentication be applied by the OpenID Provider.
+- [OAuth 2.0 Protected Resource Metadata](https://datatracker.ietf.org/doc/html/rfc9728) - Metadata format that an OAuth 2.0 client or authorization server can use to obtain the information needed to interact with an OAuth 2.0 protected resource.
 
 #### Draft
 
