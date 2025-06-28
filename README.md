@@ -195,18 +195,17 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Session Management](https://openid.net/specs/openid-connect-session-1_0.html) - Specifications about OpenID Connect session management.
 - [OpenID Connect Client-Initiated Backchannel Authentication Flow - Core 1.0](https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html) - Specifications for Client-Initiated Backchannel Authentication (CIBA) flow.
 - [OpenID Provider Authentication Policy Extension 1.0](https://openid.net/specs/openid-provider-authentication-policy-extension-1_0.html) - Specifications about a mechanism by which a Relying Party can request that particular authentication policies like multi-factor authentication be applied by the OpenID Provider.
+- [JWT Response for OAuth Token Introspection](https://datatracker.ietf.org/doc/html/rfc9701) - A signed additional JSON Web Token (JWT) secured response for OAuth 2.0 Token Introspection.
 - [OAuth 2.0 Protected Resource Metadata](https://datatracker.ietf.org/doc/html/rfc9728) - Metadata format that an OAuth 2.0 client or authorization server can use to obtain the information needed to interact with an OAuth 2.0 protected resource.
+- [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/rfc9700) - Best security practice when using OAuth 2.0 and OpenID Connect.
 
 #### Draft
 
-- [JWT Response for OAuth Token Introspection](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-jwt-introspection-response) - Proposal for an signed additional JSON Web Token (JWT) secured response for OAuth 2.0 Token Introspection.
 - [OAuth 2.0 Dynamic Client Registration Management Protocol](https://datatracker.ietf.org/doc/html/rfc7592) - Endpoints for management of OAuth 2.0 dynamic client registrations.
-- [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics) - Best security practice when using OAuth 2.0 and OpenID Connect.
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 - [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps) - Security and usability best practice for OAuth usage in Browser-based apps.
-- [OAuth 2.0 Protected Resource Metadata](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-resource-metadata) - Metadata format that an OAuth 2.0 client or authorization server can use to obtain the information needed to interact with an OAuth 2.0 protected resource.
-- [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/) - Specification for selective disclosure of JWT elements.
+- [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt) - Specification for selective disclosure of JWT elements.
 
 ### Websites
 
