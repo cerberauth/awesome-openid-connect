@@ -53,7 +53,7 @@
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
 - [Kinde](https://kinde.com) - OpenID Connect and OAuth 2.0 service that is available on the cloud as a SaaS.
 - [LoginRadius](https://www.loginradius.com/) - A SaaS CIAM that can act as an OpenID Connect provider.
-- [Logto](https://logto.io/) - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
+- [Logto](https://github.com/logto-io/logto) - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
 - [Okta](https://www.okta.com/) - Extensible solution that enables both customer and workforce identity with federation, single sign-on, API security and workflows for both cloud and on-prem solutions.
 - [Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/solutions/identity-access) - Software component developed by Microsoft providing single sign-on access to systems and applications.
 - [MITREid Connect](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - Open Source OpenID Connect reference implementation in Java.
