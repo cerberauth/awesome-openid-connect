@@ -199,6 +199,7 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 Protected Resource Metadata](https://datatracker.ietf.org/doc/html/rfc9728) - Metadata format that an OAuth 2.0 client or authorization server can use to obtain the information needed to interact with an OAuth 2.0 protected resource.
 - [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/rfc9700) - Best security practice when using OAuth 2.0 and OpenID Connect.
 - [OpenID Connect Extended Authentication Profile (EAP) ACR Values 1.0](https://openid.net/specs/openid-connect-eap-acr-values-1_0.html) - Specifications for OpenID Connect Extended Authentication Profile (EAP) ACR Values which allows to request specific authentication methods and assurance levels.
+- [Resource Indicators for OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc8707) - Resource Indicators for OAuth 2.0 is a mechanism that allows an OAuth 2.0 client to indicate the resource server that it intends to access.
 
 #### Draft
 
