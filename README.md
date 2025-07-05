@@ -69,6 +69,7 @@
 - [Zitadel](https://github.com/zitadel/zitadel) - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
 - [Alibaba Cloud IDaaS](https://www.alibabacloud.com/en/product/identity-as-a-service-idaas) - Alibaba Cloud OpenID Connect Provider as a service.
 - [SecureAuth](https://www.secureauth.com/) - Identity security platform that provides OpenID Connect Provider capabilities.
+- [FusionAuth](https://fusionauth.io/) - Open Source Identity and Access Management (IAM) solution with OpenID Connect Provider capabilities.
 
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
 
