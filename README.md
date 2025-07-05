@@ -70,6 +70,7 @@
 - [Alibaba Cloud IDaaS](https://www.alibabacloud.com/en/product/identity-as-a-service-idaas) - Alibaba Cloud OpenID Connect Provider as a service.
 - [SecureAuth](https://www.secureauth.com/) - Identity security platform that provides OpenID Connect Provider capabilities.
 - [FusionAuth](https://fusionauth.io/) - Open Source Identity and Access Management (IAM) solution with OpenID Connect Provider capabilities.
+- [IBM Verify](https://www.ibm.com/products/verify) - OpenID Connect Provider and Identity as a Service (IDaaS) solution by IBM.
 
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
 
