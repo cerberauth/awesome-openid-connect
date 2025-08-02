@@ -170,6 +170,7 @@ Where to discover learning resources about OpenID Connect.
 
 #### Published
 
+- [CBOR Web Token (CWT)](https://datatracker.ietf.org/doc/html/rfc8392) - CBOR format used for tokens in the context of OpenID Connect and OAuth 2.0.
 - [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html) - Defines the core OpenID Connect functionality: authentication built on top of OAuth 2.0 and the use of Claims to communicate information about the End-User. It also describes the security and privacy considerations for using OpenID Connect.
 - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749) - Underlying OAuth 2.0 protocol OpenID Connect is based on.
 - [JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519) - JWT specifications used for different tokens mentioned in OAuth 2.0 and OpenID Connect specifications.
@@ -210,6 +211,7 @@ Where to discover learning resources about OpenID Connect.
 #### Draft
 
 - [OAuth 2.0 Dynamic Client Registration Management Protocol](https://datatracker.ietf.org/doc/html/rfc7592) - Endpoints for management of OAuth 2.0 dynamic client registrations.
+- [OpenID Connect Standard Claims Registration for CBOR Web Tokens](https://datatracker.ietf.org/doc/html/draft-ietf-spice-oidc-cwt-01.html) - OpenID Connect standard claims registration for CBOR Web Tokens.
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 - [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps) - Security and usability best practice for OAuth usage in Browser-based apps.
