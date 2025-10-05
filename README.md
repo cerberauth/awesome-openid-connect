@@ -117,7 +117,7 @@
 
 *Libraries layer focused on specific framework integration*
 
-- [NextAuth.js](https://github.com/nextauthjs/next-auth) - Open Source authentication solution for Next.js applications including using OpenID Connect.
+- [Better Auth](https://github.com/better-auth/better-auth) - TypeScript Framework agnostic authentication library for SPAs and server-side applications.
 - [nuxt-auth for Nuxt 2](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt.js 2.
 - [nuxt-auth for Nuxt3](https://github.com/sidebase/nuxt-auth) - Nuxt 3 user authentication and sessions library. nuxt-auth wraps NextAuth.js.
 - [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - Angular certified library with OAuth 2.0 and OpenID Connect flows, and Angular schematics.
