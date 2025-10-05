@@ -63,7 +63,7 @@
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
 - [SiteMinder](https://www.broadcom.com/products/identity/siteminder) - An IAM provided by Broadcom with OpenID Connect Provider support.
 - [SSOJet](https://ssojet.com) - A OpenID Connect based solution that seamlessly integrates enterprise SSO into your B2B SaaS. 
-- [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - Transmit Security is a CIAM solution that supports an OpenID Connect-based integration.
+- [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - A CIAM solution that supports an OpenID Connect-based integration.
 - [WSO2 Identity Server](https://wso2.com/identity-server/) - Identity Server which provides modern identity and access management capabilities that can be easily built into organization's customer experience (CX) applications.
 - [Zitadel](https://github.com/zitadel/zitadel) - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
 - [Alibaba Cloud IDaaS](https://www.alibabacloud.com/en/product/identity-as-a-service-idaas) - Alibaba Cloud OpenID Connect Provider as a service.
@@ -107,7 +107,7 @@
 
 - [com.google.oauth-client/google-oauth-client](https://github.com/googleapis/google-oauth-java-client) - OAuth Relying Party Java library written by Google for OAuth 2.0 with Android support.
 - [com.nimbusds/oauth2-oidc-sdk](https://mvnrepository.com/artifact/com.nimbusds/oauth2-oidc-sdk) - Java SDK developed by connect2id with OpenID Connect, FAPI, Federation and eKYC / Identity Assurance extensions.
-- [Spring Security](https://docs.spring.io/spring-security/reference/servlet/oauth2/login/index.html) - Spring Security implements OAuth 2.0 and OpenID Connect for Spring based applications.
+- [Spring Security](https://docs.spring.io/spring-security/reference/servlet/oauth2/login/index.html) - Java framework for securing Spring-based applications with OpenID Connect and OAuth 2.0 support.
 
 ### JavaScript
 
@@ -130,7 +130,7 @@
 ### PHP
 
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Integration with OAuth 2.0 service providers for PHP.
-- [Symfony Security](https://symfony.com/doc/current/security/access_token.html#using-openid-connect-oidc) - Symfony Security component OpenID Connect access token authentication.
+- [Symfony Security](https://symfony.com/doc/current/security/access_token.html#using-openid-connect-oidc) - PHP Security component with OpenID Connect support.
 
 ### Python
 
@@ -206,12 +206,12 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 Protected Resource Metadata](https://datatracker.ietf.org/doc/html/rfc9728) - Metadata format that an OAuth 2.0 client or authorization server can use to obtain the information needed to interact with an OAuth 2.0 protected resource.
 - [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/rfc9700) - Best security practice when using OAuth 2.0 and OpenID Connect.
 - [OpenID Connect Extended Authentication Profile (EAP) ACR Values 1.0](https://openid.net/specs/openid-connect-eap-acr-values-1_0.html) - Specifications for OpenID Connect Extended Authentication Profile (EAP) ACR Values which allows to request specific authentication methods and assurance levels.
-- [Resource Indicators for OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc8707) - Resource Indicators for OAuth 2.0 is a mechanism that allows an OAuth 2.0 client to indicate the resource server that it intends to access.
+- [Resource Indicators for OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc8707) - A mechanism that allows an OAuth 2.0 client to indicate the resource server that it intends to access.
 
 #### Draft
 
 - [OAuth 2.0 Dynamic Client Registration Management Protocol](https://datatracker.ietf.org/doc/html/rfc7592) - Endpoints for management of OAuth 2.0 dynamic client registrations.
-- [OpenID Connect Standard Claims Registration for CBOR Web Tokens](https://datatracker.ietf.org/doc/html/draft-ietf-spice-oidc-cwt-01.html) - OpenID Connect standard claims registration for CBOR Web Tokens.
+- [OpenID Connect Standard Claims Registration for CBOR Web Tokens](https://datatracker.ietf.org/doc/html/draft-ietf-spice-oidc-cwt-01.html) - Defines how to represent the OpenID Connect standard claims in CBOR Web Tokens (CWTs).
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 - [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps) - Security and usability best practice for OAuth usage in Browser-based apps.
@@ -221,15 +221,15 @@ Where to discover learning resources about OpenID Connect.
 
 ### Websites
 
-- [OpenID](https://openid.net/) - OpenID Connect official website.
-- [OAuth](https://oauth.net/) - OAuth website maintained by Aaron Parecki which list different resources about the protocol.
+- [OpenID](https://openid.net/) - The OpenID Connect official website.
+- [OAuth](https://oauth.net/) - The OAuth website maintained by Aaron Parecki which list different resources about the protocol.
 - [ByteByteGo](https://blog.bytebytego.com/i/135955829/oauth-explained-with-simple-terms) - Oauth 2.0 explains using visual and simple terms.
-- [Aaron Parecki](https://aaronparecki.com/articles) - Aaron Parecki OAuth WG Member blog posts about OAuth 2.0.
-- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Alex Bilbie blog posts about OAuth 2.0 topic.
+- [Aaron Parecki](https://aaronparecki.com/articles) - OAuth WG Member blog posts about OAuth 2.0.
+- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Blog posts about OAuth 2.0 topic.
 - [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth 2.0.
 - [Nacho](https://nacho.cerberauth.com/) - An OAuth 2.0 client creation helper helping to choose the right grant type depending on the application.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.
-- [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta blog posts about OAuth 2.0 and OpenID Connect.
+- [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta vendor blog posts about OAuth 2.0 and OpenID Connect.
 - [Medium OAuth 2.0](https://medium.com/oauth-2) - Medium blog with learnings, patterns and ideas around use of OAuth 2.0.
 - [Mike Jones: Self-Issued](https://self-issued.info/) - Mike Jones blog posts about OAuth 2.0 and OpenID Connect.
 
