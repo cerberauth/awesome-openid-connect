@@ -213,6 +213,7 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 Dynamic Client Registration Management Protocol](https://datatracker.ietf.org/doc/html/rfc7592) - Endpoints for management of OAuth 2.0 dynamic client registrations.
 - [OpenID Connect Standard Claims Registration for CBOR Web Tokens](https://datatracker.ietf.org/doc/html/draft-ietf-spice-oidc-cwt-01.html) - Defines how to represent the OpenID Connect standard claims in CBOR Web Tokens (CWTs).
 - [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
+- [OpenID AuthZEN](https://openid.net/specs/authorization-api-1_0-01.html) - Standardized API for requesting access decisions from an authorization service in order to ease integration between services.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
 - [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps) - Security and usability best practice for OAuth usage in Browser-based apps.
 - [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt) - Specification for selective disclosure of JWT elements.
