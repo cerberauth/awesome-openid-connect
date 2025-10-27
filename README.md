@@ -61,6 +61,7 @@
 - [Ory Hydra](https://github.com/ory/hydra) - Open Source OpenID Certified™ OpenID Connect and OAuth Provider.
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - Open Source and certified OpenID Connect provider implementation in Node.js with FAPI 1.0 and FAPI 2.0 support.
 - [PingFederate](https://www.pingidentity.com/en/platform/capabilities/authentication-authority/pingfederate.html) - Federation server that provides secure single sign-on, API security and provisioning for enterprise customers, partners, and employees.
+- [Scalekit](https://www.scalekit.com) - Implements SAML and OIDC-based SSO and SCIM provisioning on top of your existing auth systems.
 - [SiteMinder](https://www.broadcom.com/products/identity/siteminder) - An IAM provided by Broadcom with OpenID Connect Provider support.
 - [SSOJet](https://ssojet.com) - A OpenID Connect based solution that seamlessly integrates enterprise SSO into your B2B SaaS. 
 - [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - A CIAM solution that supports an OpenID Connect-based integration.
