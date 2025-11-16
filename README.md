@@ -245,7 +245,7 @@ Where to discover learning resources about OpenID Connect.
 
 - [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
 - [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
-- [MojoAuth: Passkey Playground](https://mojoauth.com/passkey-playground/) - A generic playground for testing and experimenting with passkey authentication across different platforms and browsers.
+- [MojoAuth: Passkey Playground](https://mojoauth.com/oidc-playground/) - Build and visualize OpenID Connect requests with this interactive tool. Configure parameters, generate request URLs, and decode JWT tokens.
 
 ### Books
 
