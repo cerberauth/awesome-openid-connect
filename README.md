@@ -75,7 +75,7 @@
 - [SAP Customer Identity](https://help.sap.com/docs/SAP_CUSTOMER_DATA_CLOUD/8b8d6fffe113457094a17701f63e3d6a/4167c2d870b21014bbc5a10ce4041860.html) - SAP's OpenID Connect Provider and Identity as a Service (IDaaS) solution.
 
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
-- [MojoAuth](https://mojoauth.com) - A passwordless authentication platform that enables secure login using passkeys, magic links, and OTPs without the need for passwords.
+- [MojoAuth](https://mojoauth.com) - An OpenID Connect-based passwordless authentication platform using passkeys, magic links, and OTPs.
 
 
 ## Relying Parties (RP) Libraries
