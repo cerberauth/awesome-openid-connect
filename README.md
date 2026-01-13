@@ -212,6 +212,9 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Connect Extended Authentication Profile (EAP) ACR Values 1.0](https://openid.net/specs/openid-connect-eap-acr-values-1_0.html) - Specifications for OpenID Connect Extended Authentication Profile (EAP) ACR Values which allows to request specific authentication methods and assurance levels.
 - [Resource Indicators for OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc8707) - A mechanism that allows an OAuth 2.0 client to indicate the resource server that it intends to access.
 - [OAuth 2.0 Authorization Server Issuer Identification](https://datatracker.ietf.org/doc/html/rfc9207) - Defines a new iss parameter in the authorization response in order to identify the authorization server that issued the authorization response and mitigates mix-up attacks.
+- [FAPI 2.0 Security Profile](https://openid.net/specs/fapi-security-profile-2_0.html) - New version of the FAPI security profile that is suitable for protecting APIs with a high inherent risk in the context of Financial-grade APIs.
+- [FAPI 2.0 Attacker Model](https://openid.net/specs/fapi-attacker-model-2_0.html) - Security goals, attacker models and security mechanisms for Financial-grade APIs.
+- [FAPI 2.0 Message Signing](https://openid.net/specs/fapi-message-signing-2_0.html) - API security profile for signing and verifying certain FAPI 2.0 Security Profile based requests and responses.
 
 #### Draft
 
