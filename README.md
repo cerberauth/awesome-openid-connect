@@ -227,6 +227,7 @@ Where to discover learning resources about OpenID Connect.
 - [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt) - Specification for selective disclosure of JWT elements.
 - [OAuth 2.1](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13) - Consolidation of OAuth 2.0 specifications into a single document, removing deprecated features and clarifying best practices.
 - [OAuth 2.0 App2App Browserless Flow](https://github.com/yaron-zehavi/oauth-app2app-browserless) - Describing a protocol enabling native navigation across apps performing authentication using the App2App pattern, without requiring a web browser.
+- [OAuth 2.0 Attestation-Based Client Authentication](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07) - Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.
 
 ### Websites
 
