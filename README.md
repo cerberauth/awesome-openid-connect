@@ -27,6 +27,7 @@
     - [Websites](#websites)
     - [Thematic Articles](#thematic-articles)
     - [Playgrounds](#playgrounds)
+    - [Mock Test Server](#mock-test-server)
     - [Books](#books)
 
 ---
@@ -253,6 +254,9 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth.com Playground](https://www.oauth.com/playground/) - OAuth 2.0 / OpenID Connect Playground with authorization flows and step by step of the process of obtaining an access token.
 - [Curity Playground](https://oauth.tools/) - Tools for exploring and testing OAuth and OpenID Connect flows.
 - [MojoAuth: Passkey Playground](https://mojoauth.com/oidc-playground/) - Build and visualize OpenID Connect requests with this interactive tool. Configure parameters, generate request URLs, and decode JWT tokens.
+
+### Mock Test Server
+- [OAuth Mock Server](https://oauth.kogiqa.com/) - A free and open-source OAuth mock server that simulates the biggest providers just by replacing the URL. Useful for E2E testing.
 
 ### Books
 
