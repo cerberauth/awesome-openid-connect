@@ -1,11 +1,11 @@
 {{ define "main" }}
-<main aria-role="main">
+<main aria-role="main" class="prose prose-lg prose-stone container mx-auto py-8">
     {{ readFile "README.md" | markdownify }}
 </main>
 {{ end }}
 
 {{ define "footer" }}
-<footer aria-role="footer">
-    <p className="text-sm text-gray-500">Proudly part of <a className="text-primary" target="_blank" href="https://www.cerberauth.com?utm_source=awesome-openidconnect">CerberAuth</a> community.</p>
+<footer aria-role="footer" class="text-center py-4">
+    <p className="text-sm text-gray-500">Proudly part of <a className="text-primary" target="_blank" href="https://www.cerberauth.com">CerberAuth</a> community.</p>
 </footer>
 {{ end }}
