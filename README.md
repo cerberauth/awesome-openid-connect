@@ -68,6 +68,7 @@
 - [Pocket ID](https://github.com/pocket-id/pocket-id) - A simple OpenID Connect Provider that allows users to authenticate with their passkeys.
 - [SiteMinder](https://www.broadcom.com/products/identity/siteminder) - An IAM provided by Broadcom with OpenID Connect Provider support.
 - [SSOJet](https://ssojet.com) - A OpenID Connect based solution that seamlessly integrates enterprise SSO into your B2B SaaS. 
+- [Scalekit](https://scalekit.com) - Enterprise SSO platform with OIDC, SAML, SCIM provisioning, and OAuth token vault for AI agents (Agent Auth) and MCP server authorization.
 - [Transmit Security](https://developer.transmitsecurity.com/guides/user/auth_oidc/) - A CIAM solution that supports an OpenID Connect-based integration.
 - [WSO2 Identity Server](https://wso2.com/identity-server/) - Identity Server which provides modern identity and access management capabilities that can be easily built into organization's customer experience (CX) applications.
 - [Zitadel](https://github.com/zitadel/zitadel) - Open Source Identity solution with OpenID Connect provider (OP) and SAMLv2 ready to use.
