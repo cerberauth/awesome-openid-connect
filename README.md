@@ -51,6 +51,7 @@
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
 - [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
+- [Kotauth](https://kotauth.com/) - Kotauth is an open-source authentication and identity platform that bridges the gap between enterprise IAM systems (Keycloak, Okta) and developer-friendly SaaS tools (Clerk, Auth0). Full OAuth2/OIDC compliance. Runs in Docker. Up in minutes.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
 - [Kinde](https://kinde.com) - OpenID Connect and OAuth 2.0 service that is available on the cloud as a SaaS.
