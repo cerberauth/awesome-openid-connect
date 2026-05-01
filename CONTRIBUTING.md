@@ -16,5 +16,6 @@ Your contributions are always welcome!
 * Don't mention `OpenId Connect` or `OAuth` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
+* Contribute with the repository’s best interest in mind. While adding your own project is allowed, submissions should primarily benefit this list and its users. Promotional contributions that aim to place a product across multiple awesome lists without genuine consideration for each repository’s scope and quality may be declined.
 
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
