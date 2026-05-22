@@ -83,6 +83,7 @@
 - [WorkOS](https://workos.com/) - An identity management platform that enables organizations to provide secure access to their workforce, customers, and partners.
 
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
+- [SSOJet](https://ssojet.com/) - Simplifies Enterprise SSO, OIDC, SAML, and SCIM integration for modern B2B SaaS and AI applications.
 
 
 ## Relying Parties (RP) Libraries
