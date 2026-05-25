@@ -157,6 +157,7 @@
 ## Relying Parties (RP) Software Plugins
 
 - [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
+- [authsome](https://github.com/agentrhq/authsome) - Local credential broker for AI agents that implements OpenID Connect Relying Party flows (browser PKCE and device code) for 14 OAuth2 providers including Google, GitHub, Microsoft, Slack, Notion, and Linear. Encrypted local vault, background token refresh, and a local HTTPS proxy that injects tokens into outbound provider requests so the calling agent process never holds raw secrets. Python 3.13+, MIT.
 
 ## Resources
 
