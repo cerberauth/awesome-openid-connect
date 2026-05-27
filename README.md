@@ -259,8 +259,7 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth for Model Context Protocol](https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol) - Aaron Parecki article about how OAuth works and how it should be used in the context of model context protocol (MCP) server.
 - [OAuth common vulnerabilities](https://portswigger.net/web-security/oauth) - PortSwigger article about OAuth 2.0 common vulnerabilities and how to mitigate them.
 - [MCP OAuth 2.1 Authentication: How AI Agents Securely Connect to Tools](https://www.iamdevbox.com/posts/mcp-oauth-21-authentication-how-ai-agents-securely-connect-to-tools/) - How the Model Context Protocol uses OAuth 2.1 with mandatory PKCE, RFC 8707 audience binding, and zero-configuration discovery for AI agent authentication.
-- [GitHub Actions OIDC – Non-Human Identities and Secretless Authentication](https://eparon.me/posts/2026-02-28-oidc-gh-actions-p1/) - Explains non-human identity concepts, how OIDC works as an identity layer, and how GitHub Actions issues scoped JWT tokens to authenticate workloads without storing secrets.
-- [Securing APIs with GitHub Actions OIDC and Envoy Proxy](https://eparon.me/posts/2026-03-24-oidc-gh-actions-p2/) - End-to-end walkthrough of validating GitHub Actions OIDC tokens at the API boundary using Envoy for authentication (authN) and authorization (authZ), with a companion [lab repository](https://github.com/eparon/oidc-secure-api-github-actions).
+- [GitHub Actions OIDC – Non-Human Identities and Secretless Authentication](https://eparon.me/posts/2026-02-28-oidc-gh-actions-p1/) - A two-part guide on moving from static secrets to OIDC-based identities in GitHub Actions, including a practical lab for protecting APIs.
 
 ### Playgrounds
 
