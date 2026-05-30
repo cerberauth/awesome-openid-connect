@@ -140,6 +140,7 @@
 
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Integration with OAuth 2.0 service providers for PHP.
 - [Symfony Security](https://symfony.com/doc/current/security/access_token.html#using-openid-connect-oidc) - PHP Security component with OpenID Connect support.
+- [Laravel Socialite](https://github.com/laravel/socialite) - Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.
 
 ### Python
 
