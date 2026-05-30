@@ -109,7 +109,8 @@
 
 ### Golang
 
-- [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client.
+- [coreos/go-oidc](https://github.com/coreos/go-oidc) - Go OpenID Connect client developed by CoreOS.
+- [golang.org/x/oauth2](https://pkg.go.dev/golang.org/x/oauth2) - Official Golang client implementation for OAuth 2.0 spec with OpenID Connect support.
 - [zitadel/oidc](https://github.com/zitadel/oidc) - OpenID Connect client and server library certified by the OpenID Foundation.
 
 ### Java
@@ -138,6 +139,7 @@
 
 ### PHP
 
+- [Laravel Socialite](https://github.com/laravel/socialite) - Laravel wrapper around OAuth 1 & OAuth 2 libraries with OpenID Connect support.
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Integration with OAuth 2.0 service providers for PHP.
 - [Symfony Security](https://symfony.com/doc/current/security/access_token.html#using-openid-connect-oidc) - PHP Security component with OpenID Connect support.
 
