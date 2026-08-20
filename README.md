@@ -159,6 +159,13 @@
 ## Relying Parties (RP) Software Plugins
 
 - [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
+- [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy adding OpenID Connect and OAuth 2.0 based authentication in front of any application.
+- [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) - OpenID Connect Relying Party and OAuth 2.0 client Lua library for NGINX/OpenResty.
+- [Kong OpenID Connect](https://docs.konghq.com/hub/kong-inc/openid-connect/) - OpenID Connect Relying Party plugin for the Kong API Gateway.
+- [Apache APISIX openid-connect](https://apisix.apache.org/docs/apisix/plugins/openid-connect/) - OpenID Connect Relying Party plugin for the Apache APISIX API Gateway.
+- [traefikoidc](https://github.com/lukaszraczylo/traefikoidc) - OpenID Connect Relying Party middleware plugin for Traefik.
+- [caddy-security](https://github.com/greenpau/caddy-security) - OpenID Connect Relying Party authentication plugin for the Caddy web server.
+- [Vouch Proxy](https://github.com/vouch/vouch-proxy) - SSO solution using OpenID Connect for Nginx and Traefik reverse proxies.
 
 ## Resources
 
