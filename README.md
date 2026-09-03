@@ -145,6 +145,7 @@
 
 ### Python
 
+- [Authlib](https://github.com/authlib/authlib) - Python library in building OAuth and OpenID Connect servers and clients.
 - [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc/) - A Django OpenID Connect relying party library maintained by Mozilla.
 
 ### Ruby
