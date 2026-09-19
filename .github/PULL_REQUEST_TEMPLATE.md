@@ -9,7 +9,7 @@
 ## Requirements for your pull request
 
 - [ ] Fully AI-generated pull requests are not accepted.
-- [ ] You have read and understood the [Contribution Guidelines](https://github.com/cerberauth/awesome-openid-connect/tree/main/.github/CONTRIBUTING.md).
+- [ ] You have read and understood the [Contribution Guidelines](https://github.com/cerberauth/awesome-openid-connect/blob/main/CONTRIBUTING.md).
 - [ ] This pull request has a title in the format `Add Name of the resource`.
 - [ ] Your entry here should include a short description of the project/resource. **It should not describe the resource itself.** The first character should be uppercase and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb.
 - [ ] Your entry should be added at the alphabetical position in the list.
