@@ -117,6 +117,7 @@
 
 - [com.google.oauth-client/google-oauth-client](https://github.com/googleapis/google-oauth-java-client) - OAuth Relying Party Java library written by Google for OAuth 2.0 with Android support.
 - [com.nimbusds/oauth2-oidc-sdk](https://mvnrepository.com/artifact/com.nimbusds/oauth2-oidc-sdk) - Java SDK developed by connect2id with OpenID Connect, FAPI, Federation and eKYC / Identity Assurance extensions.
+- [pac4j](https://github.com/pac4j/pac4j) - Framework-agnostic Java security engine with OpenID Federation support and adapters for Spring, Jakarta EE, Play, Vert.x and other web frameworks.
 - [Spring Security](https://docs.spring.io/spring-security/reference/servlet/oauth2/login/index.html) - Java framework for securing Spring-based applications with OpenID Connect and OAuth 2.0 support.
 
 ### JavaScript
