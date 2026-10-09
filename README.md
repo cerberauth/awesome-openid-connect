@@ -53,6 +53,7 @@
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
+- [issuerd](https://github.com/issuerd/issuerd) - Open Source Keycloak-compatible IAM server in Rust with DPoP and CIBA, conformance-tested (3,907 conditions, zero failures).
 - [Kinde](https://kinde.com) - OpenID Connect and OAuth 2.0 service that is available on the cloud as a SaaS.
 - [LoginRadius](https://www.loginradius.com/) - A SaaS CIAM that can act as an OpenID Connect provider.
 - [Logto](https://github.com/logto-io/logto) - An Open-source solution designed for Customer Identity and Access Management (CIAM) and Workforce Identity Management with OpenID Connect based authentication.
