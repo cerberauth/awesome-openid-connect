@@ -49,6 +49,7 @@
 - [Dex](https://github.com/dexidp/dex) - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
 - [Duende IdentityServer](https://duendesoftware.com/products/identityserver) - ASP.NET Core OpenID Connect Provider solution.
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
+- [FoxAuth](https://github.com/RedFox-Soft/OAuth-server.ts) - Source-available OpenID Connect provider and OAuth 2.1 authorization server on Bun and TypeScript, with an admin console, projects that are each their own issuer, PAR, DPoP, CIBA, SCIM and an MCP control plane.
 - [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
