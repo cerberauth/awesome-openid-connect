@@ -49,7 +49,7 @@
 - [Dex](https://github.com/dexidp/dex) - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
 - [Duende IdentityServer](https://duendesoftware.com/products/identityserver) - ASP.NET Core OpenID Connect Provider solution.
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
-- [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
+- [FrontEgg](https://frontegg.com/) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
@@ -258,7 +258,6 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth](https://oauth.net/) - The OAuth website maintained by Aaron Parecki which list different resources about the protocol.
 - [ByteByteGo](https://blog.bytebytego.com/i/135955829/oauth-explained-with-simple-terms) - Oauth 2.0 explains using visual and simple terms.
 - [Aaron Parecki](https://aaronparecki.com/articles) - OAuth WG Member blog posts about OAuth 2.0.
-- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Blog posts about OAuth 2.0 topic.
 - [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth 2.0.
 - [Nacho](https://nacho.cerberauth.com/) - An OAuth 2.0 client creation helper helping to choose the right grant type depending on the application.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.
