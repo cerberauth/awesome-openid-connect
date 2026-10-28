@@ -97,7 +97,7 @@
 
 ### C#
 
-- [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
+- [Duende.IdentityModel.OidcClient](https://github.com/DuendeSoftware/foss) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
 
 ### Dart
 
