@@ -122,7 +122,7 @@
 
 ### JavaScript
 
-- [openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
+- [openid-client](https://github.com/panva/openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2/OpenID Connect library for JavaScript Runtimes.
 - [oidc-client-ts](https://github.com/authts/oidc-client-ts) - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
 
@@ -163,7 +163,7 @@
 - [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy adding OpenID Connect and OAuth 2.0 based authentication in front of any application.
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) - OpenID Connect Relying Party and OAuth 2.0 client Lua library for NGINX/OpenResty.
-- [Kong OpenID Connect](https://docs.konghq.com/hub/kong-inc/openid-connect/) - OpenID Connect Relying Party plugin for the Kong API Gateway.
+- [Kong OpenID Connect](https://developer.konghq.com/plugins/openid-connect/) - OpenID Connect Relying Party plugin for the Kong API Gateway.
 - [Apache APISIX openid-connect](https://apisix.apache.org/docs/apisix/plugins/openid-connect/) - OpenID Connect Relying Party plugin for the Apache APISIX API Gateway.
 - [traefikoidc](https://github.com/lukaszraczylo/traefikoidc) - OpenID Connect Relying Party middleware plugin for Traefik.
 - [caddy-security](https://github.com/greenpau/caddy-security) - OpenID Connect Relying Party authentication plugin for the Caddy web server.
